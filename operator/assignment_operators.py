@@ -1,0 +1,30 @@
+x = 5
+print('x = ' + str(x))
+x += 3
+print('x plus 3 = ' + str(x))
+x -= 3
+print('x subtract by 3 = ' + str(x))
+x *= 3
+print('x multiplied by 3 = ' + str(x))
+x /= 3
+print('x divided by 3 = ' + str(x))
+x //= 3
+print('x divided by 3 rounded down = ' + str(x))
+x %= 3
+print('modulus of x divided by 3 = ' + str(x))
+x **= 3
+print('x power 3 = ' + str(x))
+print(type(x))
+x = int(x)  # cast to int because bit operators can only apply to int operand
+print(type(x))
+x = 13
+x &= 47
+print('x bitwise and 3 = ' + str(x))
+x |= 58
+print('x bitwise or 3 = ' + str(x))
+x ^= 19
+print('x bitwise xor 3 = ' + str(x))
+x <<= 3
+print('x zero fill left shift 3 times = ' + str(x))
+x >>= 3
+print('x signed right shift 3 times = ' + str(x))
