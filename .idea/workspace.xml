@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1067155f-6ddf-4316-ac9d-77cf37828c6d" name="Default Changelist" comment="" />
+    <list default="true" id="1067155f-6ddf-4316-ac9d-77cf37828c6d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_basic_programming.egg-info/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_basic_programming.egg-info/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_basic_programming.egg-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_basic_programming.egg-info/top_level.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,24 +16,31 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Setup Script" />
         <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/string-and-regex/regex-demo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kL2kEPciQQFhpPsmsoekfAhVHF" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/variable-and-data-type" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/variable_and_data_type/variable-demo" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -37,22 +50,22 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Programming\Python\basic\variable_and_data_type\variable-demo" />
+      <recent name="F:\Programming\Python\basic\variable_and_data_type\tuple-demo" />
+      <recent name="F:\Programming\Python\basic\variable_and_data_type\string-demo" />
+      <recent name="F:\Programming\Python\basic\variable_and_data_type\set-demo" />
+      <recent name="F:\Programming\Python\basic\variable_and_data_type\numbers-demo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Programming\Python\basic\variable_and_data_type\variable_and_constant" />
+      <recent name="F:\Programming\Python\basic" />
       <recent name="F:\Programming\Python\basic\string-and-date" />
       <recent name="F:\Programming\Python\basic\function-and-scope" />
       <recent name="F:\Programming\Python\basic\oop" />
-      <recent name="F:\Programming\Python\basic\condition-and-loop" />
-      <recent name="F:\Programming\Python\basic\basic-input-and-output" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Programming\Python\basic\variable-and-data-type" />
-      <recent name="F:\Programming\Python\basic\string-and-date" />
-      <recent name="F:\Programming\Python\basic\pip-demo" />
-      <recent name="F:\Programming\Python\basic\operator" />
-      <recent name="F:\Programming\Python\basic\oop" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.comment">
+  <component name="RunManager" selected="Python.variable-and-data-type">
     <configuration name="basic_input_and_output" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="basic" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,12 +110,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="variable-and-data-type" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/variable_and_data_type" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/variable_and_data_type/variable-and-data-type.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.basic_input_and_output" />
       <item itemvalue="Python.comment" />
+      <item itemvalue="Python.variable-and-data-type" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.variable-and-data-type" />
         <item itemvalue="Python.comment" />
         <item itemvalue="Python.basic_input_and_output" />
       </list>
@@ -121,13 +158,40 @@
       <workItem from="1605465709730" duration="48000" />
       <workItem from="1605489324545" duration="11345000" />
       <workItem from="1605514435328" duration="2490000" />
+      <workItem from="1605537884044" duration="391000" />
+      <workItem from="1605542254464" duration="1698000" />
+      <workItem from="1605576764461" duration="2325000" />
+      <workItem from="1605579470447" duration="308000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1605538159606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605538159606</updated>
+    </task>
+    <task id="LOCAL-00002" summary="minor fix">
+      <created>1605579429201</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605579429201</updated>
+    </task>
+    <task id="LOCAL-00003" summary="minor fixes">
+      <created>1605579481231</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605579481231</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <ignored-roots>
       <path value="$PROJECT_DIR$/basic-input-and-output/comment-demo" />
       <path value="$PROJECT_DIR$/basic-input-and-output/user-input-demo" />
@@ -180,6 +244,10 @@
       <path value="$PROJECT_DIR$/while-loop-demo" />
       <path value="$PROJECT_DIR$/string-and-regex/regex-demo" />
     </ignored-roots>
+    <MESSAGE value="first commit" />
+    <MESSAGE value="minor fix" />
+    <MESSAGE value="minor fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor fixes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605492144045">
@@ -190,33 +258,50 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="530" y="202" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1605497613675" />
-    <state x="360" y="0" key="CommitChangelistDialog2" timestamp="1605498498805">
+    <state x="360" y="0" key="CommitChangelistDialog2" timestamp="1605579480436">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="360" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605498498805" />
-    <state width="1342" height="188" key="GridCell.Tab.0.bottom" timestamp="1605525880093">
+    <state x="360" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1605579480436" />
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1605538051465">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="188" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605525880093" />
-    <state width="1342" height="188" key="GridCell.Tab.0.center" timestamp="1605525880093">
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605538051465" />
+    <state width="1342" height="188" key="GridCell.Tab.0.bottom" timestamp="1605543978464">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="188" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605525880093" />
-    <state width="1342" height="188" key="GridCell.Tab.0.left" timestamp="1605525880093">
+    <state width="1342" height="188" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605543978464" />
+    <state width="1342" height="188" key="GridCell.Tab.0.center" timestamp="1605543978464">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="188" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605525880093" />
-    <state width="1342" height="188" key="GridCell.Tab.0.right" timestamp="1605525880093">
+    <state width="1342" height="188" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605543978464" />
+    <state width="1342" height="188" key="GridCell.Tab.0.left" timestamp="1605543978464">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605525880093" />
+    <state width="1342" height="188" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605543978464" />
+    <state width="1342" height="188" key="GridCell.Tab.0.right" timestamp="1605543978464">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605543978464" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1605498551010">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605498551010" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1605579484566">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1605579484566" />
+    <state x="453" y="185" key="git4idea.merge.GitPullDialog" timestamp="1605538109889">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="453" y="185" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1605538109889" />
+    <state x="570" y="313" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1605538100121">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="570" y="313" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824@0.0.1536.824" timestamp="1605538100121" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/basic$comment.coverage" NAME="comment Coverage Results" MODIFIED="1605521006967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_input_and_output" />
+    <SUITE FILE_PATH="coverage/basic$variable_and_data_type.coverage" NAME="variable-and-data-type Coverage Results" MODIFIED="1605542836759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/variable_and_data_type" />
+    <SUITE FILE_PATH="coverage/basic$comment.coverage" NAME="comment Coverage Results" MODIFIED="1605542281186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic_input_and_output" />
     <SUITE FILE_PATH="coverage/basic$main.coverage" NAME="basic-input-and-output Coverage Results" MODIFIED="1605497295642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic-input-and-output" />
     <SUITE FILE_PATH="coverage/basic$basic_input_and_output__1_.coverage" NAME="basic-input-and-output (1) Coverage Results" MODIFIED="1605492001223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/basic-input-and-output" />
   </component>
